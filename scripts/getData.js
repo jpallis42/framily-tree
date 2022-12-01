@@ -13,7 +13,7 @@ try {
 }
 
 extractSheets({
-  spreadsheetKey: '2PACX-1vSCirCybf3OEaRqhjtlhEsaWEyBCOftkh4oGfSX8hlyPcHuozlxvwPofnaoZR6SGJBfRbyTL6pD',
+  spreadsheetKey: '1gJtnd97ZXz6MF7o7OQfofOP7vFZivFW9IYthfL6hp_I',
   credentials: apiKey,
   sheetsToExtract: ['Sheet1'],
 },
